@@ -1,31 +1,20 @@
-body > h1{
-    align-content: center;
+body{
+    font-family: "Poppins", sans-serif;
 }
 
-
-.container{
-    background-color: azure;
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 
-div{
-   height: 150px;
-   width: 150px;
-}
-#first{
-    background-color: aquamarine;
-}
-#second{
-    background-color:blanchedalmond;
-    position: absolute;
-    left: 50px;
-
-}
-#third{
-  background-color: greenyellow;
-}
-#fourth{
-    background-color: blueviolet;
-    position: absolute;
-    left: 100px;
-
+.half-width img{
+    width: 100%;
 }
