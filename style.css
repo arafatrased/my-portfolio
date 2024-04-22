@@ -39,3 +39,11 @@ section{
 .link-button:hover{
     background-image: linear-gradient(orange,tomato);
 }
+.text-info{
+    text-align: justify;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
