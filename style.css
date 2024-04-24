@@ -47,3 +47,31 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    height: 70%;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: white;
+    
+
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#exp1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#exp2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
